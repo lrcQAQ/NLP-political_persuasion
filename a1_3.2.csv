@@ -1,0 +1,2 @@
+0.37775,0.4885,0.4975,0.494375,0.502375
+"As amount of training data increase, model accuracy increase. There is an expected trends that increment is more significant for relatively smaller dataset (i.e. from 1k to 5k), but not changed much for relatively larger dataset (i.e. 15k to 20k).When dataset is too small, the model may fail to capture the underlying trends of data, smaller dataset is hard to generalized on overall test set. Where as dataset gets larger, it can better generalized to overall dataset.",,,,

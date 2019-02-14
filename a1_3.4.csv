@@ -1,0 +1,7 @@
+0.3195,0.408125,0.308625,0.292625,0.393125
+0.284125,0.29475,0.295125,0.289375,0.294375
+0.46075,0.47425,0.45025,0.474625,0.457125
+0.4595,0.4575,0.435875,0.484,0.441625
+0.501125,0.494125,0.494,0.500375,0.4925
+0.003548021,7.46E-07,0.001796325,0.004643318,
+"I choose AdaBoostClassifier as my best classifier discovered in 3.1, and it is also the one with the highest cross-validation accuracy against others. The p-value here is a measurement of how significant we can reject null hypothesis: two models have similar performance, hence, the p-value calculated from AdaBoost against other classifiers are very small for radial SVC, indicate that AdaBoost is significantly better than radial SVC, it's also different than other classifiers, but not in a significant way as radial SVC. The variability in accuracy also indicates the variability within data, such as linear SVC has a bad overall performance in 3.1, where it can get a relatively good accuracy for a particular fold. ",,,,
